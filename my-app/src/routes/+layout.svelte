@@ -1,14 +1,18 @@
-<svelte:head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CZS9SS5KHG"></script>-->
-<!--  <script>-->
-<!--      window.dataLayer = window.dataLayer || [];-->
-<!--      function gtag(){dataLayer.push(arguments);}-->
-<!--      gtag('js', new Date());-->
+<!--<svelte:head>-->
+<!--  &lt;!&ndash; Global site tag (gtag.js) - Google Analytics &ndash;&gt;-->
+<!--&lt;!&ndash;  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CZS9SS5KHG"></script>&ndash;&gt;-->
+<!--&lt;!&ndash;  <script>&ndash;&gt;-->
+<!--&lt;!&ndash;      window.dataLayer = window.dataLayer || [];&ndash;&gt;-->
+<!--&lt;!&ndash;      function gtag(){dataLayer.push(arguments);}&ndash;&gt;-->
+<!--&lt;!&ndash;      gtag('js', new Date());&ndash;&gt;-->
 
-<!--      gtag('config', 'G-CZS9SS5KHG');-->
-<!--  </script>-->
-</svelte:head>
+<!--&lt;!&ndash;      gtag('config', 'G-CZS9SS5KHG');&ndash;&gt;-->
+<!--&lt;!&ndash;  </script>&ndash;&gt;-->
+<!--</svelte:head>-->
+
+<script>
+    import "../app.css";
+</script>
 
 <nav>
   <a href="/">Home</a>
